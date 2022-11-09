@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ButikSinemaSalonu/1.0.0": {
+        "runtime": {
+          "ButikSinemaSalonu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ButikSinemaSalonu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
